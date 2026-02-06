@@ -1,0 +1,22 @@
+{
+  "title": "EEG Data Analysis",
+  "description": "This software is used to analyze EEG data specifically in the context of research on phenomenal consciousness.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Bořkovec, Kryštof",
+      "affiliation": "Czech Academy of Sciences: Institute of Computer Science",
+      "orcid": "0009-0005-3606-7236"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "communities": [
+    {"identifier": "neuroscience"}
+  ],
+  "keywords": [
+    "Interoception",
+    "Phenomenal Consciousness",
+    "Neuroscience"
+  ]
+}
