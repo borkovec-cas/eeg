@@ -36,7 +36,7 @@ LEGAL AND ETHICAL ASPECTS
 ----------------------
 
 - License: CC BY 4.0
-- Conditions of use: [e.g. https://creativecommons.org/licenses/by/4.0/]
+- Conditions of use: https://creativecommons.org/licenses/by/4.0/
 
 - Copyrights/restrictions: none
 
