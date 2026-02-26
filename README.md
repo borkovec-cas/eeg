@@ -19,9 +19,9 @@ GENERAL INFORMATION
 
 - ROR: https://ror.org/0496n6574 
 
-- Description: This is an example softwere which does do anything really...except for serving as an example.
+- Description: This is an example softwere which doesn't do anything really...except for serving as an example.
 
-- Contributor: 
+- Contributors: 
 
 - Funding sources: This work has been produced with the financial support of the European Union under the: 'Biography of Fake News with a Touch of AI: Dangerous Phenomenon through the Prism of Modern Human Sciences' project no.: CZ.02.01.01/00/23_025/0008724 via the Operational Programme Jan Ámos Komenský. 
 
@@ -36,6 +36,7 @@ LEGAL AND ETHICAL ASPECTS
 ----------------------
 
 - License: CC BY 4.0
+  
 - Conditions of use: https://creativecommons.org/licenses/by/4.0/
 
 - Copyrights/restrictions: none
