@@ -1,22 +1,22 @@
 {
-  "title": "EEG Data Analysis",
-  "description": "This software is used to analyze EEG data specifically in the context of research on phenomenal consciousness.",
+  "title": "Example Software",
+  "description": "This software is used to print a beautiful Hello World message.",
   "upload_type": "software",
   "creators": [
     {
-      "name": "Bořkovec, Kryštof",
+      "name": "Doe, John",
       "affiliation": "Czech Academy of Sciences: Institute of Computer Science",
-      "orcid": "0009-0005-3606-7236"
+      "orcid": "0009-0006-2424-7712"
     }
   ],
   "access_right": "open",
-  "license": "MIT",
+  "license": "CC BY 4.0",
   "communities": [
     {"identifier": "neuroscience"}
   ],
   "keywords": [
-    "Interoception",
-    "Phenomenal Consciousness",
-    "Neuroscience"
+    "example",
+    "software",
+    "publication"
   ]
 }
