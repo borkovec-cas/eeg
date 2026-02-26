@@ -35,9 +35,9 @@ GENERAL INFORMATION
 LEGAL AND ETHICAL ASPECTS
 ----------------------
 
-- License: CC BY 4.0
+- License: MIT
   
-- Conditions of use: https://creativecommons.org/licenses/by/4.0/
+- Conditions of use: https://opensource.org/license/mit
 
 - Copyrights/restrictions: none
 
@@ -65,6 +65,7 @@ HOW TO USE THIS SOFTWARE
 ----------------------
 
 - Execute it with command "python3 hello_world.py" to see the beautiful message!
+- (Note: requirements.txt or environment.yml file should be included to specify the necessary libraries.)
   
 ----------------------
 CITATION OF THIS SOFTWARE
