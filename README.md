@@ -1,4 +1,4 @@
-# Example software repo
+# Example Software README file
 
 This README file was generated on 2026-02-26 by John Doe, john.doe@institution.org
 Last updated: 2026-02-26.
