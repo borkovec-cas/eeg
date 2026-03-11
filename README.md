@@ -29,7 +29,7 @@ GENERAL INFORMATION
   
 - Key words: example, software, publication
 
-- Field of study: [Pick one here](https://vyzkum.gov.cz/storage/att/0383BBC06D66DDC5268DD25A278E5DB1/Prevodnik_oboru_FORD_Scopus.pdf)
+- Field of study: [Pick one here](https://tacr.gov.cz/wp-content/uploads/documents/2021/04/26/1619432556_Struktura%20obor%C5%AF%20FORD.pdf)
 
 ----------------------
 LEGAL AND ETHICAL ASPECTS
