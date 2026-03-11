@@ -48,11 +48,11 @@ LEGAL AND ETHICAL ASPECTS
 FILE OVERVIEW
 ----------------------
 
-- hello_world.py: Example code in Python 3.0.
-- LICENSE: Example license file
-- .zenodo.json: Configuration file for Zenodo-GitHub integration, which ensures that Zenodo records produced automatically
+- `hello_world.py`: Example code in Python 3.0.
+- `LICENSE`: Example license file
+- `.zenodo.json`: Configuration file for Zenodo-GitHub integration, which ensures that Zenodo records produced automatically
                 with every release of this repository have correct metadata automatically filled in.
-- README.md: This file.
+- `README.md`: This file.
 
 ----------------------
 ORIGIN AND METHODOLOGY
